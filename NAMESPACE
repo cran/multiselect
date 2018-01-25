@@ -1,0 +1,3 @@
+export(multiselect)
+importFrom("stats", "as.formula", "complete.cases", "glm", "predict.glm", "binomial")
+importFrom("utils", "combn")
